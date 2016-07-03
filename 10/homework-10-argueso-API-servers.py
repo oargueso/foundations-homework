@@ -39,7 +39,7 @@ def get_temp_feeling(t):
 
 
 # In[6]:
-
+# TA-COMMENT: Hmm, this sounds like the min temparature not the max! 
 def get_high_temp(t):
     data = t['daily']['data']
     for item in data:
