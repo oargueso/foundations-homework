@@ -1,0 +1,9 @@
+Grade: 10 / 10
+
+Great work on both of your datasets -- you should be really proud of both of your notebooks! They are excellent examples of exploratory data analysis. 
+
+For the time issue you mentioned (in relation to your homelessness dataset), hopefully Soma's lesson on using datetimes as an index will help you solve that problem in the future (and we can discuss more in lab if necessary). 
+
+For getting the stacked bar chart, it's probably best to create your own dataframe that contains on the values you'd want to plot in your bar chart. I think this tutorial is especially helpful: http://chrisalbon.com/python/matplotlib_stacked_bar_plot.html. 
+
+Hope that helps! 
