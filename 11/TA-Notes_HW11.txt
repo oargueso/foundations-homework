@@ -1,0 +1,5 @@
+Grade: 9 / 10
+
+Missing #12. 
+
+It's a good idea to do value_counts() over your columns to make sure your functions that you've .apply() over have yielded the results that you want (or if there are some values that you may have missed in your function). Basically, it's a good idea to think through how you might check your work. 
